@@ -13,6 +13,9 @@ current: target
 vim_session:
 	bash -cl "vmt"
 
+## downcall resources/prum.pdf ## Sexual selection
+## downcall resources/causeCons.pdf ## Political polarization
+Ignore += resources
 Makefile: resources
 resources: dir=~/Dropbox/polarization
 resources:
