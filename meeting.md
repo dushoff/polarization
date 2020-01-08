@@ -1,6 +1,6 @@
 
-ASU 2020 Jan 06 (Mon)
-=====================
+ASU 2020 Jan
+============
 
 resources/asu_agenda.pdf ##
 
@@ -94,6 +94,9 @@ A citizen-scientist collaboration with NYT: Your Media Ecosystem
 
 ----------------------------------------------------------------------
 
+Tuesday
+=======
+
 Levin session
 
 Modeling opinion changes
@@ -156,7 +159,7 @@ DiMaggio:
 	* Partisan sorting
 * Affective polarization
 	* Partisans don't agree less, they hate each other more
-	* Zif: less punishment for extremists (from general electorate?)
+	* Yif: less punishment for extremists (from general electorate?)
 	* Centeno: There is an empirical question of to what extent the party drives the voters vs. the other way around
 * Leonard: objective vs. subjective polarization
 * Michael: what drives polarization? McGovern wanted to democratize things by making primaries more important
@@ -285,9 +288,9 @@ Plotkin: how ocan you tell that people are dropping out?
 * Marcus: ask people their preference for news vs. entertainment; people who like news better are more likely to vote
 
 Miguel: How much comparison is there to the Reformation (driven by the printing press)? Has anyone worked on depolarization by media?
-* Zif: there is good empirical research showing that Fox news increased polarization; good studies of how Fox news rolled out ("basically" at random) -- also channel numbers (much bigger effect than MS-NBC)
-* Zif: other things are harder to disentangle; FB and twitter are conflated. One study of people who were paid to drop FB for a month
-* Zif: results about exposure to the other side are mixed
+* Yif: there is good empirical research showing that Fox news increased polarization; good studies of how Fox news rolled out ("basically" at random) -- also channel numbers (much bigger effect than MS-NBC)
+* Yif: other things are harder to disentangle; FB and twitter are conflated. One study of people who were paid to drop FB for a month
+* Yif: results about exposure to the other side are mixed
 
 Michael: why is talk radio so right wing?
 * Wang. What's the cause and effect? 
@@ -313,7 +316,7 @@ Chai: What is known about how context affects processing
 Andrea: ad revenue as part of a polarizing feedback loop?
 * Keena: not convinced, but not clear why
 * Andrea: I see different ads during editorial times vs. news times
-* Zif: there is some evidence (from the past?) about advertising leading to centrism
+* Yif: there is some evidence (from the past?) about advertising leading to centrism
 	* Sleeping giants runs campaigns to target egregious people like Tucker Carlson
 
 Plotkin: does Fox news polarize people?
@@ -366,3 +369,51 @@ Jonathan:
 * Wild analogy with https://en.wikipedia.org/wiki/Genomic_imprinting
 
 Marcus: How does the analogy work? People are agents making choices on a very different scale than evolving peacocks
+
+Wednesday
+=========
+
+Kinzig recap
+
+----------------------------------------------------------------------
+
+Yif talk
+
+resources/yiftalk.pdf
+
+----------------------------------------------------------------------
+
+## Levin questions
+
+Schumpeter's polarization and collapse
+
+What are the  driving factors?
+
+Interplay between individual attitudes, and emergent norms
+
+Search and variation
+* innovation
+
+Patchiness and modularity
+
+Demography and aging
+
+Network theory and power asymmetries
+
+Whom to vaccinate
+
+Fake news
+
+Loss of dimensionality
+
+Overlapping identity groups
+
+Early warnings
+
+Cross-scale influences
+
+----------------------------------------------------------------------
+
+Naomi Leonard
+
+resources/naomi_slides.pdf ##
