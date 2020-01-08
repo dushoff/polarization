@@ -1,0 +1,36 @@
+## Remote
+
+"Allen Buchanan, Ph.D." <allenb@duke.edu>
+"Paul J. DiMaggio" <dimaggio@princeton.edu>
+
+## Attendees
+
+"Andrea L. Graham" <algraham@princeton.edu>
+"Ann Kinzig" <Ann.Kinzig@asu.edu>
+"Boleslaw Szymanski" <boleslaw.szymanski@gmail.com>
+"Chai Molina" <cmgraff@gmail.com>
+"Charles Perrings" <Charles.Perrings@asu.edu>
+"Dushoff, Jonathan" <dushoff@mcmaster.ca>
+"James Collins" <jcollins@asu.edu>
+"Jonathan Dushoff" <dushoff@mcmaster.ca>
+"Joshua B Plotkin" <jplotkin@sas.upenn.edu>
+"Keena Lipsitz" <keena.lipsitz@qc.cuny.edu>
+"Lelkes, Yphtach" <yphtach.lelkes@asc.upenn.edu>
+"Manfred Laubichler" <Manfred.Laubichler@asu.edu>
+"Markus Prior" <mprior@princeton.edu>
+"Michael Hechter" <Michael.Hechter@asu.edu>
+"Michele Tomassi" <Michele.Tomassi@asu.edu>
+"Naomi E. Leonard" <naomi@Princeton.EDU>
+"Rodney Hero" <rhero@asu.edu>
+"Samuel S. Wang" <sswang@Princeton.EDU>
+"Sandra Milburn" <milburn@princeton.edu>
+"Simon Levin" <slevin60@gmail.com>
+"Stephanie Forrest" <steph@asu.edu>
+"Stu Feldman" <sif@schmidtfutures.com>
+
+----------------------------------------------------------------------
+
+## Did not attend
+
+"Hasan Davulcu" <HasanDavulcu@asu.edu>
+"Helen Milner" <hvmilner@gmail.com>
