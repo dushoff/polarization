@@ -22,7 +22,7 @@ resources:
 
 ### Makestuff
 
-Sources += Makefile
+Sources += Makefile meeting.md resources.md
 
 Ignore += makestuff
 msrepo = https://github.com/dushoff
