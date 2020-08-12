@@ -4,7 +4,7 @@
 current: target
 -include target.mk
 
-# include makestuff/perl.def
+include makestuff/perl.def
 
 ######################################################################
 
@@ -20,6 +20,8 @@ Makefile: resources
 resources: dir=~/Dropbox/polarization
 resources:
 	$(linkdirname)
+
+## resources.filemerge: resources.md
 
 ######################################################################
 
