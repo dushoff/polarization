@@ -1,4 +1,6 @@
 ## This is polarization, a screens project directory under projects/
+## I am moving the readings to the readings repo so that I can comment freely
+## 2020 Nov 19 (Thu)
 ## makestuff/project.Makefile
 
 current: target
